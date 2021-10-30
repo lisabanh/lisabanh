@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Lisa 
 
-## I'm an aspiring Machine Learning Engineer & creative at heart.
+## I'm an aspiring Machine Learning Engineer
 
 - I come from the Art & Design industry. 
 - My experiences led me to the tech world and my current path in Machine Learning, Deep Learning, and Software Engineering. 
